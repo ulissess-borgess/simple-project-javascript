@@ -1,0 +1,20 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Testando GitHub Actions",
+  "homepage": "https://github.com/ulissess-borgess/simple-project-javascript#readme",
+  "bugs": {
+    "url": "https://github.com/ulissess-borgess/simple-project-javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulissess-borgess/simple-project-javascript.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
