@@ -2,7 +2,7 @@ console.log("Teste JavaScript GitHub Actions")
 // teste
 function soma(a, b){
     //Teste para resolver conflitos
-    //Teste simples
+    //Teste Teste
     return a + b
 }
 
